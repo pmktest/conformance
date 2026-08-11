@@ -1,3 +1,5 @@
+export const inserted1 = 1;
+export const inserted2 = 2;
 export const step1 = 1;
 export const step2 = 2;
 export const step3 = 3;
