@@ -10,7 +10,6 @@ export const step7 = 7;
 export const step8 = 8;
 export const step9 = 9;
 export const step10 = 10;
-export const step11 = 111;
 export const step12 = 12;
 export const step13 = 13;
 export const step14 = 14;
